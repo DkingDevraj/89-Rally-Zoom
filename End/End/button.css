@@ -1,0 +1,10 @@
+    body {
+        background: #000;
+        padding: 10x;
+        background-image: url(RallyZoom.jpg);
+        background-position: center;
+        background-color:gainsboro;
+        background-size:cover;
+        background-attachment: fixed;
+        background-repeat:no-repeat;
+    }
